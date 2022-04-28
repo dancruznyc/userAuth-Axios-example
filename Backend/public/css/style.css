@@ -1,0 +1,13 @@
+.image-container {
+  width: 150px;
+}
+
+.image-container img {
+  width: 100%;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: turquoise;
+}
